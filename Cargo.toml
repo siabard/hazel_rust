@@ -1,0 +1,10 @@
+[package]
+name = "hazel_rust"
+version = "0.1.0"
+authors = ["Yeonho Jang <siabard@gmail.com>"]
+
+[dependencies]
+
+[[example]]
+name="sandbox"
+path = "examples/sandbox/main.rs"
